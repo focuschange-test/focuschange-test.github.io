@@ -1,5 +1,3 @@
 User-agent: *
 
-Disallow: /norobots/
-
 Sitemap: https://focuschange-test.github.io/sitemap.xml
