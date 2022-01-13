@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://galaxy-battleship.github.io/sitemap.xml
+Sitemap: https://focuschange-test.github.io/sitemap.xml
